@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "150312175762",
+    "firebase_url": "https://jetpacker-6220648.firebaseio.com",
+    "project_id": "jetpacker-6220648",
+    "storage_bucket": "jetpacker-6220648.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150312175762:android:72dceb9d8a4e40c6",
+        "android_client_info": {
+          "package_name": "com.nebular.jetpack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "150312175762-f08s8nm5cqpn3ssijmja4qsq1jbd4s4j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEqTGLgHU2WOkIk7jxQqLDoBsHqpAeua4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "150312175762-f08s8nm5cqpn3ssijmja4qsq1jbd4s4j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "150312175762-m0s5p0nfg135d2ch007is7mpanpua60t.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nebular.jetpack"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,519 @@
+<levels>
+  
+ <level>
+  <title>level 1</title>
+	<description>fly through 5 beams</description>
+	<valuetoreach>5</valuetoreach>
+	<background>0</background>
+   <beamspeed>0</beamspeed>
+   <coins>25</coins>
+	<achievement>null</achievement>
+   <enhanced>false</enhanced>
+ </level>
+
+ <level>
+    <title>level 2</title>
+    <description>fly through 5 beams</description>
+    <light_description_color>true</light_description_color>
+    <valuetoreach>5</valuetoreach>
+    <background>1</background>
+    <beamspeed>0.001</beamspeed>
+    <coins>25</coins>
+    <achievement>null</achievement>
+    <enhanced>false</enhanced>
+   <ground>3</ground>
+ </level>
+
+  <level>
+    <title>level 3</title>
+    <description>fly through 5 beams</description>
+    <light_description_color>false</light_description_color>
+    <valuetoreach>5</valuetoreach>
+    <background>2</background>
+    <beamspeed>0</beamspeed>
+    <coins>25</coins>
+    <achievement>null</achievement>
+    <enhanced>false</enhanced>
+    <ground>0</ground>
+  </level>
+
+  <level>
+    <title>level 4</title>
+    <description>fly through 3 beams</description>
+    <light_description_color>true</light_description_color>
+    <valuetoreach>3</valuetoreach>
+    <background>3</background>
+    <beamspeed>6</beamspeed>
+    <coins>25</coins>
+    <achievement>null</achievement>
+    <enhanced>true</enhanced>
+    <ground>9</ground>
+  </level>
+
+  <level>
+    <title>level 5</title>
+    <description>fly through 7 beams</description>
+    <light_description_color>true</light_description_color>
+    <valuetoreach>7</valuetoreach>
+    <background>4</background>
+    <beamspeed>0</beamspeed>
+    <coins>40</coins>
+    <achievement>null</achievement>
+    <enhanced>false</enhanced>
+    <ground>1</ground>
+  </level>
+
+  <level>
+    <title>level 6</title>
+    <description>fly through 4 beams</description>
+    <light_description_color>true</light_description_color>
+    <valuetoreach>4</valuetoreach>
+    <background>5</background>
+    <beamspeed>0.001</beamspeed>
+    <coins>25</coins>
+    <achievement>null</achievement>
+    <enhanced>false</enhanced>
+    <ground>5</ground>
+  </level>
+
+  <level>
+    <title>level 7</title>
+    <description>fly through 6 beams</description>
+    <light_description_color>true</light_description_color>
+    <valuetoreach>6</valuetoreach>
+    <background>6</background>
+    <beamspeed>0.001</beamspeed>
+    <coins>25</coins>
+    <achievement>null</achievement>
+    <enhanced>false</enhanced>
+    <ground>9</ground>
+  </level>
+
+  <level>
+    <title>level 8</title>
+    <description>fly through 6 beams</description>
+    <light_description_color>true</light_description_color>
+    <valuetoreach>6</valuetoreach>
+    <background>7</background>
+    <beamspeed>0</beamspeed>
+    <coins>25</coins>
+    <achievement>null</achievement>
+    <enhanced>false</enhanced>
+    <ground>7</ground>
+  </level>
+
+  <level>
+    <title>level 9</title>
+    <description>fly through 3 beams</description>
+    <light_description_color>true</light_description_color>
+    <valuetoreach>3</valuetoreach>
+    <background>8</background>
+    <beamspeed>5</beamspeed>
+    <coins>25</coins>
+    <achievement>null</achievement>
+    <enhanced>true</enhanced>
+    <ground>0</ground>
+  </level>
+
+  <level>
+    <title>level 10</title>
+    <description>fly through 5 beams</description>
+    <light_description_color>true</light_description_color>
+    <valuetoreach>5</valuetoreach>
+    <background>9</background>
+    <beamspeed>0.002</beamspeed>
+    <coins>50</coins>
+    <achievement>null</achievement>
+    <enhanced>false</enhanced>
+    <ground>0</ground>
+  </level>
+
+  <level>
+    <title>level 11</title>
+    <description>fly through 10 beams</description>
+    <light_description_color>true</light_description_color>
+    <valuetoreach>10</valuetoreach>
+    <background>10</background>
+    <beamspeed>0</beamspeed>
+    <coins>50</coins>
+    <achievement>null</achievement>
+    <enhanced>false</enhanced>
+    <ground>0</ground>
+  </level>
+
+  <level>
+    <title>level 12</title>
+    <description>fly through 6 beams</description>
+    <light_description_color>true</light_description_color>
+    <valuetoreach>6</valuetoreach>
+    <background>11</background>
+    <beamspeed>6</beamspeed>
+    <coins>40</coins>
+    <achievement>null</achievement>
+    <enhanced>true</enhanced>
+    <ground>10</ground>
+  </level>
+
+  <level>
+    <title>level 13</title>
+    <description>fly through 8 beams</description>
+    <light_description_color>true</light_description_color>
+    <valuetoreach>8</valuetoreach>
+    <background>12</background>
+    <beamspeed>0.001</beamspeed>
+    <coins>40</coins>
+    <achievement>null</achievement>
+    <enhanced>false</enhanced>
+    <ground>4</ground>
+  </level>
+  
+  <level>
+    <title>level 14</title>
+    <description>fly through 5 beams</description>
+    <light_description_color>true</light_description_color>
+    <valuetoreach>5</valuetoreach>
+    <background>14</background>
+    <beamspeed>4</beamspeed>
+    <coins>25</coins>
+    <achievement>null</achievement>
+    <enhanced>true</enhanced>
+    <ground>2</ground>
+  </level>
+
+  <level>
+    <title>level 15</title>
+    <description>fly through 7 beams</description>
+    <light_description_color>true</light_description_color>
+    <valuetoreach>7</valuetoreach>
+    <background>15</background>
+    <beamspeed>0.002</beamspeed>
+    <coins>25</coins>
+    <achievement>null</achievement>
+    <enhanced>false</enhanced>
+    <ground>6</ground>
+  </level>
+
+  <level>
+    <title>level 16</title>
+    <description>fly through 5 beams</description>
+    <light_description_color>true</light_description_color>
+    <valuetoreach>5</valuetoreach>
+    <background>16</background>
+    <beamspeed>0.001</beamspeed>
+    <coins>50</coins>
+    <achievement>null</achievement>
+    <enhanced>false</enhanced>
+    <ground>8</ground>
+  </level>
+
+  <level>
+    <title>level 17</title>
+    <description>fly through 10 beams</description>
+    <light_description_color>false</light_description_color>
+    <valuetoreach>10</valuetoreach>
+    <background>17</background>
+    <beamspeed>6</beamspeed>
+    <coins>25</coins>
+    <achievement>null</achievement>
+    <enhanced>true</enhanced>
+    <ground>9</ground>
+  </level>
+
+  <level>
+    <title>level 18</title>
+    <description>fly through 7 beams</description>
+    <light_description_color>true</light_description_color>
+    <valuetoreach>7</valuetoreach>
+    <background>18</background>
+    <beamspeed>6</beamspeed>
+    <coins>25</coins>
+    <achievement>null</achievement>
+    <enhanced>true</enhanced>
+    <ground>9</ground>
+  </level>
+
+  <level>
+    <title>level 19</title>
+    <description>fly through 12 beams</description>
+    <light_description_color>true</light_description_color>
+    <valuetoreach>12</valuetoreach>
+    <background>3</background>
+    <beamspeed>0</beamspeed>
+    <coins>50</coins>
+    <achievement>null</achievement>
+    <enhanced>false</enhanced>
+    <ground>9</ground>
+  </level>
+
+  <level>
+    <title>level 20</title>
+    <description>fly through 10 beams</description>
+    <light_description_color>false</light_description_color>
+    <valuetoreach>10</valuetoreach>
+    <background>20</background>
+    <beamspeed>0.003</beamspeed>
+    <coins>25</coins>
+    <achievement>null</achievement>
+    <enhanced>false</enhanced>
+    <ground>0</ground>
+  </level>
+
+  <level>
+    <title>level 21</title>
+    <description>fly through 10 beams</description>
+    <valuetoreach>10</valuetoreach>
+    <background>0</background>
+    <beamspeed>0</beamspeed>
+    <coins>25</coins>
+    <achievement>null</achievement>
+    <enhanced>false</enhanced>
+  </level>
+
+  <level>
+    <title>level 22</title>
+    <description>fly through 15 beams</description>
+    <light_description_color>true</light_description_color>
+    <valuetoreach>15</valuetoreach>
+    <background>1</background>
+    <beamspeed>0.001</beamspeed>
+    <coins>25</coins>
+    <achievement>null</achievement>
+    <enhanced>false</enhanced>
+    <ground>3</ground>
+  </level>
+
+  <level>
+    <title>level 23</title>
+    <description>fly through 15 beams</description>
+    <light_description_color>false</light_description_color>
+    <valuetoreach>15</valuetoreach>
+    <background>2</background>
+    <beamspeed>0</beamspeed>
+    <coins>25</coins>
+    <achievement>null</achievement>
+    <enhanced>false</enhanced>
+    <ground>0</ground>
+  </level>
+
+  <level>
+    <title>level 24</title>
+    <description>fly through 10 beams</description>
+    <light_description_color>true</light_description_color>
+    <valuetoreach>10</valuetoreach>
+    <background>3</background>
+    <beamspeed>6</beamspeed>
+    <coins>25</coins>
+    <achievement>null</achievement>
+    <enhanced>true</enhanced>
+    <ground>9</ground>
+  </level>
+
+  <level>
+    <title>level 25</title>
+    <description>fly through 17 beams</description>
+    <light_description_color>true</light_description_color>
+    <valuetoreach>17</valuetoreach>
+    <background>4</background>
+    <beamspeed>0</beamspeed>
+    <coins>40</coins>
+    <achievement>null</achievement>
+    <enhanced>false</enhanced>
+    <ground>1</ground>
+  </level>
+
+  <level>
+    <title>level 26</title>
+    <description>fly through 14 beams</description>
+    <light_description_color>true</light_description_color>
+    <valuetoreach>14</valuetoreach>
+    <background>5</background>
+    <beamspeed>0.001</beamspeed>
+    <coins>25</coins>
+    <achievement>null</achievement>
+    <enhanced>false</enhanced>
+    <ground>5</ground>
+  </level>
+
+  <level>
+    <title>level 27</title>
+    <description>fly through 16 beams</description>
+    <light_description_color>true</light_description_color>
+    <valuetoreach>16</valuetoreach>
+    <background>6</background>
+    <beamspeed>0.001</beamspeed>
+    <coins>25</coins>
+    <achievement>null</achievement>
+    <enhanced>false</enhanced>
+    <ground>9</ground>
+  </level>
+
+  <level>
+    <title>level 28</title>
+    <description>fly through 16 beams</description>
+    <light_description_color>true</light_description_color>
+    <valuetoreach>16</valuetoreach>
+    <background>7</background>
+    <beamspeed>0</beamspeed>
+    <coins>25</coins>
+    <achievement>null</achievement>
+    <enhanced>false</enhanced>
+    <ground>7</ground>
+  </level>
+
+  <level>
+    <title>level 29</title>
+    <description>fly through 13 beams</description>
+    <light_description_color>true</light_description_color>
+    <valuetoreach>13</valuetoreach>
+    <background>8</background>
+    <beamspeed>5</beamspeed>
+    <coins>25</coins>
+    <achievement>null</achievement>
+    <enhanced>true</enhanced>
+    <ground>0</ground>
+  </level>
+
+  <level>
+    <title>level 30</title>
+    <description>fly through 15 beams</description>
+    <light_description_color>true</light_description_color>
+    <valuetoreach>15</valuetoreach>
+    <background>9</background>
+    <beamspeed>0.002</beamspeed>
+    <coins>50</coins>
+    <achievement>null</achievement>
+    <enhanced>false</enhanced>
+    <ground>0</ground>
+  </level>
+
+  <level>
+    <title>level 31</title>
+    <description>fly through 20 beams</description>
+    <light_description_color>true</light_description_color>
+    <valuetoreach>20</valuetoreach>
+    <background>10</background>
+    <beamspeed>0</beamspeed>
+    <coins>50</coins>
+    <achievement>null</achievement>
+    <enhanced>false</enhanced>
+    <ground>0</ground>
+  </level>
+
+  <level>
+    <title>level 32</title>
+    <description>fly through 16 beams</description>
+    <light_description_color>true</light_description_color>
+    <valuetoreach>16</valuetoreach>
+    <background>11</background>
+    <beamspeed>6</beamspeed>
+    <coins>40</coins>
+    <achievement>null</achievement>
+    <enhanced>true</enhanced>
+    <ground>10</ground>
+  </level>
+
+  <level>
+    <title>level 33</title>
+    <description>fly through 18 beams</description>
+    <light_description_color>true</light_description_color>
+    <valuetoreach>18</valuetoreach>
+    <background>12</background>
+    <beamspeed>0.001</beamspeed>
+    <coins>40</coins>
+    <achievement>null</achievement>
+    <enhanced>false</enhanced>
+    <ground>4</ground>
+  </level>
+
+  <level>
+    <title>level 34</title>
+    <description>fly through 15 beams</description>
+    <light_description_color>true</light_description_color>
+    <valuetoreach>15</valuetoreach>
+    <background>14</background>
+    <beamspeed>4</beamspeed>
+    <coins>25</coins>
+    <achievement>null</achievement>
+    <enhanced>true</enhanced>
+    <ground>2</ground>
+  </level>
+
+  <level>
+    <title>level 35</title>
+    <description>fly through 17 beams</description>
+    <light_description_color>true</light_description_color>
+    <valuetoreach>17</valuetoreach>
+    <background>15</background>
+    <beamspeed>0.002</beamspeed>
+    <coins>25</coins>
+    <achievement>null</achievement>
+    <enhanced>false</enhanced>
+    <ground>6</ground>
+  </level>
+
+  <level>
+    <title>level 36</title>
+    <description>fly through 15 beams</description>
+    <light_description_color>true</light_description_color>
+    <valuetoreach>15</valuetoreach>
+    <background>16</background>
+    <beamspeed>0.001</beamspeed>
+    <coins>50</coins>
+    <achievement>null</achievement>
+    <enhanced>false</enhanced>
+    <ground>8</ground>
+  </level>
+
+  <level>
+    <title>level 37</title>
+    <description>fly through 20 beams</description>
+    <light_description_color>false</light_description_color>
+    <valuetoreach>20</valuetoreach>
+    <background>17</background>
+    <beamspeed>6</beamspeed>
+    <coins>25</coins>
+    <achievement>null</achievement>
+    <enhanced>true</enhanced>
+    <ground>9</ground>
+  </level>
+
+  <level>
+    <title>level 38</title>
+    <description>fly through 17 beams</description>
+    <light_description_color>true</light_description_color>
+    <valuetoreach>17</valuetoreach>
+    <background>18</background>
+    <beamspeed>6</beamspeed>
+    <coins>25</coins>
+    <achievement>null</achievement>
+    <enhanced>true</enhanced>
+    <ground>9</ground>
+  </level>
+
+  <level>
+    <title>level 39</title>
+    <description>fly through 20 beams</description>
+    <light_description_color>true</light_description_color>
+    <valuetoreach>20</valuetoreach>
+    <background>3</background>
+    <beamspeed>0</beamspeed>
+    <coins>50</coins>
+    <achievement>null</achievement>
+    <enhanced>false</enhanced>
+    <ground>9</ground>
+  </level>
+
+  <level>
+    <title>level 40</title>
+    <description>fly through 25 beams</description>
+    <light_description_color>false</light_description_color>
+    <valuetoreach>25</valuetoreach>
+    <background>20</background>
+    <beamspeed>0.003</beamspeed>
+    <coins>100</coins>
+    <achievement>null</achievement>
+    <enhanced>false</enhanced>
+    <ground>0</ground>
+  </level>
+  
+</levels>
