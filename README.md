@@ -1,7 +1,7 @@
 # Jetpacker
 
 Jetpacker is an addictive mobile game with retro pixel art. No, this is not another flappy bird clone.
-Check it out on the [Google Play Store](https://play.google.com/store/apps/details?id=com.nebular.jetpack).
+Check it out on the <a href="https://play.google.com/store/apps/details?id=com.nebular.jetpack" target="_blank">Google Play Store</a>.
 
 [![made-with-unity](https://img.shields.io/badge/Made%20with-Unity_2018.3.7-1f425f.svg)](https://unity3d.com/get-unity/download)
 ![Generic badge](https://img.shields.io/badge/version-1.5.2-orange.svg)
